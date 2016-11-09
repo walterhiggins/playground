@@ -15,3 +15,10 @@ git branch -a
 ## List all tags/branches/etc on remote
 
 git ls-remote origin
+
+## Checkout a branch someone has shared
+
+git clone <repo url>
+git checkout <feature-branch-name>
+
+
