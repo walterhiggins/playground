@@ -22,3 +22,7 @@ git clone <repo url>
 git checkout <feature-branch-name>
 
 dev2 added this line
+=======
+## resolving conflicts 
+
+dev 1 added this.
