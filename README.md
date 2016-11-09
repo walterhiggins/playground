@@ -21,4 +21,6 @@ git ls-remote origin
 git clone <repo url>
 git checkout <feature-branch-name>
 
+## resolving conflicts 
 
+dev 1 added this.
